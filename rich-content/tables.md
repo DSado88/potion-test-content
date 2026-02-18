@@ -6,7 +6,6 @@
 | ------- | --- | ------- |
 | Alice   | 30  | NYC     |
 | Bob     | 25  | LA      |
-| ​       | ​   | ​       |
 | Charlie | 35  | Chicago |
 
 ## Aligned Table
