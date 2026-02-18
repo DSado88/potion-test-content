@@ -5,6 +5,7 @@
 | Name    | Age | City    |
 | ------- | --- | ------- |
 | Alice   | 30  | NYC     |
+| ​       | ​   | ​       |
 | Bob     | 25  | LA      |
 | Charlie | 35  | Chicago |
 
@@ -31,7 +32,7 @@
 | _Italic_                                     | ✅      | Also works   |
 | `Code`                                       | ✅      | Inline code  |
 | ~~Strike~~                                   | ⚠️     | Partial      |
-| ​[Link](https://example.com)​                | ✅      | Clickable    |
+| ​<br/>​                                      | ✅      | Clickable    |
 | ![img](https://via.placeholder.com/20 "img") | ❓      | Inline image |
 
 ## Table with Long Content
